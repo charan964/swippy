@@ -1,1 +1,1 @@
-# swippy
+# swiggy
